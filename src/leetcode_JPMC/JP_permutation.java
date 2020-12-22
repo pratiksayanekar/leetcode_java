@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode_JPMC;
 
 import java.util.Arrays;
 import java.util.HashSet;
